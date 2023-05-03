@@ -13,6 +13,8 @@ Prerequisites:
    -  Helm package manager
    -  Argo CD
 
+Link to follow:  https://sunitabachhav2007.hashnode.dev/jenkins-pipeline-for-java-based-application-using-maven-sonarqube-argo-cd-and-kubernetes
+
 Steps:
 
     1. Install the necessary Jenkins plugins:
